@@ -10,3 +10,6 @@ jspm_packages
 
 # db directory
 .dynamodb
+
+# certificate
+certificate.pdf
